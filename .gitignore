@@ -1,0 +1,15 @@
+.DS_Store
+.env
+*.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+# test photos stay local, only commit images you own
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.avif
+*.heic
+*.zip
